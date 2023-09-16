@@ -76,16 +76,19 @@ button {
   margin-bottom: 1rem;
   border-radius: 5px;
   font-family: Poppins;
+  min-width: 150px;
 }
 
 #search-text {
   border-radius: 5px 0px 0px 5px;
+  min-width: 100px;
 }
 
 button {
   width: 5%;
   border-radius: 0px 5px 5px 0px;
   cursor: pointer;
+  min-width: 50px;
 }
 
 #search-container {
